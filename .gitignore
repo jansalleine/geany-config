@@ -3,6 +3,5 @@ templates
 geany.conf
 keybindings.conf
 tags
-filetype_extensions.conf
 *_socket_*
 session.conf
