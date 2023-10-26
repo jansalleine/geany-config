@@ -1,4 +1,4 @@
 *
 !.gitignore
-!filedefs
-!colorschemes
+!filedefs/*
+!colorschemes/*
